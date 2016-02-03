@@ -1,0 +1,100 @@
+<html>
+<head>
+<title>MY LIFE</title>
+</head>
+<body background="black.jpg" style="color:white">
+<table>
+<tr>
+<td><img src="Madeline Barrios.jpg" width="540" height="960" alt="Madeline"/></td>
+
+<td><center><h1>Madeline Barrios</h1>
+<h2>861 Bedford rd.<br>
+Pleasantville, NY 10570<br>
+<br>
+<a style="color:white" href="mailto:M.Barrios0630@gmail.com">M.Barrios0630@gmail.com </a></h2></center></td>
+</tr>
+</table>
+
+<p><b>About me:</b>	<center><b> Born on August 23, 1995 in Bronx, NY at Albert Einstein Hospital</b><b>
+				    I have 3 Nephews and 1 niece<b>
+				    My oldest nephew is 2 years younger than me</center></P>
+
+<p><b>Goal: </b>	<center><b> Graduate with a Bachelor degree in Information Technology with a minor in Computer Science.</b><b> 
+				    After my college career I want to work as a hardware technician for companies such as IBM or Apple. </center></p>
+
+		
+<p><b>Early Childhood Years (2000-2009): </b>	<center><b>In Kindergarten I learned how to play the flute</b><b> 
+							   At age 6 I took dance classes at a well-known Dance school in Manhattan<b>
+							   At age 10 I took Tai Kwon Do and earned up to a blue belt<b>
+							   From the age 11- 13 I was part of my churches youth ministry<b>
+							   I was on the softball and basketball team throughout Elementary/Middle School</center></p>
+  
+
+<p><b>Teenage Years (2009-2013): </b>		<center><b>Was part of the Army Reserve Officer Training Corps (ROTC) for 4 years</b><br></center>
+<ul>			<li>During my 4 years I was part of the Drill team </li>
+			<li>I ranked as a sergeant </li>
+			<li>I learned survival skills such as building a fire and a house out of wood</li>
+			<li>I went through combat training and Physical Education Training (P.E.T)</li></p> 
+						
+					<p><center><b>Was a Police Explorer for 2 years at the 52nd precinct</b><br></center>
+
+<ul>			<li>Worked my way up and assisted in the supervision of approximately 60 children</li>
+			<li>Helped solve issues between children throughout the day</li>
+			<li>Organized activities such as competitive games and art activities</li></p>
+
+			<p><center><b>Worked as a paid intern for Green Jobs for youth then worked my way up to a supervisor – 3 summers in a row</b><br></center>
+
+<ul>			<li>Worked hand –on for the New York City Parks Department forestry and horticulture at Van Cortlandt Park Conservancy</li>
+			<li>Supervised 28 high school interns </li></p>
+
+
+					<p><center><b>Was in a robotics club all throughout high school</b><br></center>
+
+<ul>			<li>Learned how to build robots</li>
+			<li>Programmed them using a software called LEGO Nxt</li>
+			<li>Created robots that have solved the rubric cube, robots with light sensor, touch sensors, sound sensors, pick up objects, etc.</li></p>
+
+					<p><center><b>Northwest Bronx Community and Clergy Coalition (NWBCCC)</b><br></center>
+
+<ul>			<li>Worked in the Fiscal department doing office works and assisted in their annual gala</li>
+			<li>Participated in the Youth Program of NWBCCC</li>
+			<li>Participated in housing, education, immigration, and weatherization program and green activities</li></p>
+
+
+					<p><center><b>Was in a Marching Band throughout my high school career</b><br></center>
+
+<ul>			<li>Learned how to play the guitar and snare drums</li>
+			<li>Participated in many parades</li></p>
+
+					<p><center><b>Took an online course from Massachusetts Institute of Technology</b><br></center>
+
+<ul>			<li>Learned a programming language called Python</li>
+			<li>Received an A in the course and a certificate</li></p>
+
+<p><b>College Years (2013-2017): </b>		<center><b>Worked for the ITS Help Desk</b><br></center>
+<ul>			
+			<li>Troubleshooted hardware and software problems on PC's and Mac's, answered phones, troubleshooted mobile devices, activated campus accounts, user account activation, password resets, problems with Portal, Blackboard, and email</li>
+			<li>Assisted on and off campus clients by troubleshooting with remote support tools, performed virus scans and virus removal using free and licensed virus removal tools</li>
+ 			<li>Assisted clients with advanced Pace systems such as Kronos timesheets, e-Procurement, SAS, and SPSS</li></p>
+
+						<p><center><b>Worked for Pace Connect </b><br></center>
+
+<ul>			<li>A student-run business that contacts & connect with Pace University alumni and students in hopes of increasing Annual Fund participation and providing other services for various offices at Pace</li>
+			<li>Data is managed and stored using Sales Force</li>
+			<li>Was given an award for having the most calls and achievements</li></p>
+
+
+						<p><center><b>President of Pride at pace Organization 2015-2016</b><br></center>
+
+<ul>
+			<li>Network to get guest speakers for our annual drag show Fabulousity</li></p>
+
+
+<p><b>Fun Facts:</b>		<center><b>Travelled to almost all the 50 states</b><b>
+					   Been to Las Vegas in Nevada, and to the Navajo reservation in Arizona<b>
+					   I have traveled out of the country many of times to places like Mexico, Dominican Republic, Puerto Rico, and Canada (Niagara Falls)<b>
+					   I have been Scuba Diving, Jet Skiing, and Horse Back Riding. I also went on a helicopter ride over the Grand Canyon<b></center></p>
+
+
+</body>
+</html>
